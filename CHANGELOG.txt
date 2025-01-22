@@ -1,0 +1,4 @@
+- Future Updates:
+  1. Add examples folder.
+  2. Include advanced Git features.
+Version -1.0 - Initial setup
